@@ -1,0 +1,18 @@
+{
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "config": "^1.26.1",
+    "express": "^4.15.2",
+    "express-http-proxy": "^1.0.2",
+    "mysql": "mysqljs/mysql",
+    "superagent": "^3.5.2",
+    "url-pattern": "^1.0.3"
+  },
+  "devDependencies": {
+    "mocha": "^3.3.0",
+    "nodemon": "^1.11.0",
+    "supertest": "^3.0.0"
+  }
+}

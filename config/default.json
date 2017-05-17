@@ -1,0 +1,10 @@
+{
+  "http_port": 3030,
+  "data_server_address": "composer.jnexpert.com/",
+  "db_config": {
+    "host": "localhost",
+    "user": "root",
+    "password": "password",
+    "database": "privilege_demo"
+  }
+}
